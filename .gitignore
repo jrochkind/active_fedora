@@ -12,6 +12,7 @@ bin
 .idea
 .ruby-version
 .ruby-gemset
+.byebug_history
 gemfiles/*.gemfile.lock
 /fcrepo4-data
 /fcrepo4-test-data
